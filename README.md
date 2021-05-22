@@ -74,7 +74,6 @@ pip3 install -r requirements-cli.txt
 
 <details>
     <summary># Setting up config file</summary>
-
 ```
 Fill up rest of the fields. Meaning of each fields are discussed below:
 - **BOT_TOKEN**: The telegram bot token that you get from [@BotFather](https://t.me/BotFather)
@@ -109,7 +108,6 @@ shortzon.com
 ```
 
 **Note**: Above are the supported url shorteners. Except these only some url shorteners are supported.
-
 </details>
 
 <details>
