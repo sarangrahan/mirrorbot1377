@@ -76,12 +76,6 @@ pip3 install -r requirements-cli.txt
     <summary># Setting up config file</summary>
 
 ```
-cp config_sample.env config.env
-```
-- Remove the first line saying:
-```
-_____REMOVE_THIS_LINE_____=True
-```
 Fill up rest of the fields. Meaning of each fields are discussed below:
 - **BOT_TOKEN**: The telegram bot token that you get from [@BotFather](https://t.me/BotFather)
 - **GDRIVE_FOLDER_ID**: This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.
